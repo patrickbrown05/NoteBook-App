@@ -1,3 +1,8 @@
+This is a web based note taking app made using React.js Library as well as material-UI.
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
